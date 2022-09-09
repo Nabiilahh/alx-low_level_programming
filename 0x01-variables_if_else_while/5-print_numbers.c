@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints all single digits from o to base 10
- * Return: Always 0 
+ * Return: Always 0
  */
 int main(void)
 {
