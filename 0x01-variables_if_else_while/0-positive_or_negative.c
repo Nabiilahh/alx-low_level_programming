@@ -3,12 +3,14 @@
 #include <time.h>
 /**
  * main - determmine if number is positive or negetive
- * Description: program will assign a random number to be variable n each time it is executed
+ * Description: program will assign a random number to be variable n
  * Return: Always 0
  */
 int main(void)
+
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n == 0)
