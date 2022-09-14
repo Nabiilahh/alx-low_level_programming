@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * _isalpha - Entry point
+ * @c : carrier variable
  * Description - checks if a leter is upper or lowercase
- * Return : 0 or 1
+ * Return : 0 
  */
 int _isalpha(int c)
 {
