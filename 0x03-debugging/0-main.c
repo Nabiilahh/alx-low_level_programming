@@ -1,11 +1,14 @@
 #include "main.h"
+
 /**
  * main - Entry point
  * Description : prints if a number is positive or negetive
  * Return: 0
  */
+
 int main(void)
 {
+
 	int i;
 
 	i = 0;
